@@ -10,7 +10,7 @@
   "formation": {
     "web": {
       "quantity": 1,
-      "size": "performance-m"
+      "size": "standard-1x"
     }
   },
   "env": {
@@ -46,7 +46,7 @@
     {
       "plan": "heroku-postgresql:standard-0",
       "options": {
-        "version": "11"
+        "version": "14"
       }
     }
   ]
